@@ -1,4 +1,5 @@
-# gettyimages-scraper-extremelyfast
-Here's a little scraper from me that I made while I was abit bored, it'll download automatically, all you have to do is write the phrase and sit back and relax, (and watch it fill up your folder).
+# GettyImages-Scraper
+
+A Fork of <a href="https://github.com/ddm4313/gettyimages-scraper-extremelyfast">gettyimages-scraper-extremelyfast</a> that was made to automatically download pictures (thumbnails) from GettyImage
 
 <img src="https://i.imgur.com/TWdZqOJ.png">
