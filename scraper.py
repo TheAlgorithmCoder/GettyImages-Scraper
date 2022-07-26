@@ -5,8 +5,8 @@ import progressbar
 
 
 class scraping():
-    def __init__(self):
-        self.page = 1
+    def __init__(self, count=0):
+        self.page = count
 
     def scraper(self, phrase):
         headers = requests.utils.default_headers()
